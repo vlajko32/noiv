@@ -6,7 +6,6 @@ namespace User
     {
         public int Sifra { get; set; }
         public String Ime { get; set; }
-        public String Prezime { get; set; }
-
+        public String Nadimak { get; set; }
     }
 }
